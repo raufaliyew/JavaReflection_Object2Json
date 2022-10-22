@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/java-performance-tuning-memory-management/pom.xml" />
+        <option value="$PROJECT_DIR$/java-reflection/pom.xml" />
       </list>
     </option>
   </component>

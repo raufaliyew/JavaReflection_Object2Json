@@ -1,4 +1,4 @@
-* Run [The Code](performanceexample1) as `java -XX:+PrintCompilation Main 10`
+* Run [The Code](performanceexample1/Main.java) as `java -XX:+PrintCompilation Main 10`
 * JIT compilers
     * C1 (Cache 1)
         * Native Level 1
