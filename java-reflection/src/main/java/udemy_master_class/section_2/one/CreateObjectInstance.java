@@ -1,4 +1,4 @@
-package udemy_master_class.section_2;
+package udemy_master_class.section_2.one;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Main {
+public class CreateObjectInstance {
 
     public static void main(String[] args)
             throws InvocationTargetException, InstantiationException, IllegalAccessException {
