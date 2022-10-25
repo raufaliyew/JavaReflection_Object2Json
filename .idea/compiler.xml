@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-reflection" />
-        <module name="java-performance-tuning-memory-management" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-performance-tuning-memory-management" target="9" />
+    </bytecodeTargetLevel>
   </component>
 </project>

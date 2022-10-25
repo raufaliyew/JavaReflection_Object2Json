@@ -16,6 +16,7 @@ public class Main {
         String json = objectToJson(person, 0);
 
         System.out.println(json);
+
     }
 
     public static String objectToJson(Object instance, int indentSize) throws IllegalAccessException {
