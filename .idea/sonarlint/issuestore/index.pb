@@ -9,10 +9,6 @@ a
 9
 	README.MD,9\6\968e80af9562e09cebe594968b130076952eafe1
 Ö
-Ujava-performance-tuning-memory-management/src/main/java/performanceexample1/Main.java,0\e\0eeac51d5411eecb56dab360efbc208657733253
-ç
-]java-performance-tuning-memory-management/src/main/java/performanceexample1/PrimeNumbers.java,a\5\a5e8f658f35b0f55fe27375180cb6e7a4445d69c
-Ö
 Ujava-performance-tuning-memory-management/src/main/java/performanceexample2/Main.java,9\5\954f305ff167878d89e79bcf422ec38a0355a621
 G
 java-reflection/pom.xml,6\e\6e70690be9466c19007b203d38133f14e3284fbd
